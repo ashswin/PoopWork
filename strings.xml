@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PoopWork</string>
+    <string name="salary">Salary</string>
+    <string name="yearly_salary">Yearly Salary</string>
+    <string name="hourly_salary">Hourly Salary</string>
+    <string name="hoursOnToilet">Hours per day on toilet</string>
+    <string name="toiletHours">Hours</string>
+    <string name="averageToiletSalary">Average Yearly Toilet Salary</string>
+    <string name="calculate">Calculate</string>
+</resources>
